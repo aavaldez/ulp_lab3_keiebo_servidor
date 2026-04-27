@@ -1,4 +1,4 @@
-using ulp_lab3_inmobiliaria_servidor.Models;
+using ulp_lab3_keiebo_servidor.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
